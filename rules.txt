@@ -1,0 +1,4 @@
+1. You have 10 chance to win the game. 
+2. If all the chance is wrong you will loose the game. 
+3. Within any of the chance if your answer is correct, you can win the game.
+5. There will be hint for you to play the game.
